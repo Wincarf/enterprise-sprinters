@@ -17,8 +17,10 @@ Built entirely within **Microsoft Foundry Visual Orchestration**, this project d
 
 The solution uses Microsoft Foundry's native visual workflow builder to orchestrate 5 specialized agents in a sequential reasoning chain. All intelligence is grounded in **Foundry IQ** using synthetic datasets.
 
-![Visual Workflow Orchestration](images/workflow.png)
-*> Screenshot of the Enterprise Sprinters sequential agent chain in Microsoft Foundry.*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fff33f67-00ce-4639-80d5-eacf58ef8fb6" alt="workflow" width="600"/>
+  <p>Screenshot of the Enterprise Sprinters sequential agent chain in Microsoft Foundry.</p>
+</div>
 
 ### Agent Roles & Grounding Strategy
 
