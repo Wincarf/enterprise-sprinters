@@ -1,4 +1,4 @@
-# 🚀 Enterprise Sprinters | Reasoning Agents Hackathon
+# 🚀 Enterprise Sprinters | Microsoft Agents League Hackathon - Reasoning Agents
 
 > **Track:** Battle #2 - Reasoning Agents with Microsoft Foundry  
 > **Challenge:** A - Enterprise Learning System  
