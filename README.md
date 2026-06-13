@@ -2,7 +2,7 @@
 
 > **Track:** Battle #2 - Reasoning Agents with Microsoft Foundry  
 > **Challenge:** A - Enterprise Learning System  
-> **Author:** Alexander (Brazil) | First-time Azure & Foundry Builder  
+> **Author:** Alexander (Brazil) | Azure & Foundry Builder  
 
 ## 🎯 Project Overview
 **Enterprise Sprinters** is an AI-powered learning orchestration system designed to solve corporate certification burnout. It transforms generic study plans into adaptive schedules that respect the employee's actual work routine and meeting load.
@@ -98,7 +98,7 @@ enterprise-sprinters/
 ## 👋 About the Builder
 
 Hi, I'm Alexander from Brazil! 👋  
-This is my **first project** with Microsoft Azure and Foundry. I'm incredibly proud of what I've built and learned during this hackathon. Please excuse any imperfections in my English – my focus was on delivering a functional, safe, and impactful solution.
+This is my **first project** with Microsoft Azure and Foundry. I'm incredibly proud of what I've built and learned during this hackathon. Focus was on delivering a functional, safe, and impactful solution.
 
 **Feedback welcome!** Open an issue or reach out if you have questions about the visual workflow setup.
 
