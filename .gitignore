@@ -1,0 +1,13 @@
+.env
+.env.local
+*.env
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.log
+tmp/
+temp/
+credentials.json
