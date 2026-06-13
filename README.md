@@ -69,14 +69,16 @@ See `/data` folder for all synthetic datasets with explicit disclaimers.
 
 ---
 
-##  Impact & Results
+## 📊 **Projected Impact & Expected Results**
 
-Based on the demo scenario and synthetic data modeling:
+Based on the system design and workload-aware scheduling logic:
 
--   **⏱️ 30% Reduction** in certification preparation time
--   **📈 40% Increase** in first-attempt approval rates  
--   **🛡️ Zero Burnout Risk** through workload-aware scheduling
--   **🔒 Full Compliance** with synthetic data safety guidelines
+-   ⏱️ ~30% Estimated Reduction in certification preparation time
+-  📈 ~40% Projected Increase in first-attempt approval rates
+-  🛡️ Burnout Mitigation through intelligent workload-aware scheduling
+-  🔒 Full Compliance with synthetic data safety guidelines
+
+Note: These metrics represent projected improvements based on the adaptive scheduling approach and are estimates for potential real-world implementation.
 
 ---
 
