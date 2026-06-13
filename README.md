@@ -80,23 +80,6 @@ Based on the demo scenario and synthetic data modeling:
 
 ---
 
-## 📂 Repository Structure
-
-enterprise-sprinters/
-├── README.md # Project documentation
-├── .gitignore # Security configuration
-├── docs/
-│ ├── agent-prompts.md # System prompts for all 5 agents
-├── data/ # SYNTHETIC DATA ONLY
-│ ├── synthetic-certifications.json
-│ ├── synthetic-work-signals.json
-│ └── synthetic-learner-history.json
-── images/ # Screenshots and diagrams
-├── workflow.png # Visual workflow screenshot
-└── chat-demo.png # Chat interface output
-
----
-
 ## 👋 About the Builder
 
 Hi, I'm Alexander from Brazil! 👋  
